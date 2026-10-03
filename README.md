@@ -1,6 +1,6 @@
 # barca-wheel
 
-A spinnable wheel that picks a random player from a team's starting lineup. Switch between FC Barcelona (2017), Portugal (2026 predicted) and Manchester City (2026).
+A spinnable wheel that picks a random player from a team's starting lineup. Switch between FC Barcelona (2017), Portugal (2026 predicted), Manchester City (2026) and ACF Fiorentina (2026).
 
 Live page: https://raulg45bdn.github.io/Barca-wheel/
 

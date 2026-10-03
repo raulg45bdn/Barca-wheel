@@ -2,7 +2,7 @@
 
 A spinnable wheel of FC Barcelona's 2017 starting XI that picks a random player.
 
-Live page: https://raulg45bdn.github.io/barca-wheel/
+Live page: https://raulg45bdn.github.io/Barca-wheel/
 
 - Spin with the button, by tapping the wheel, or by dragging and flicking it.
 - "Remove picked players" takes each pick off the wheel until you press Reset.

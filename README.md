@@ -1,6 +1,6 @@
 # barca-wheel
 
-A spinnable wheel of FC Barcelona's 2017 starting XI that picks a random player.
+A spinnable wheel that picks a random player from a team's starting lineup. Switch between FC Barcelona (2017) and Portugal (2026 predicted).
 
 Live page: https://raulg45bdn.github.io/Barca-wheel/
 
